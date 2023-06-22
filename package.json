@@ -1,0 +1,21 @@
+{
+  "name": "try-date-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@date-io/date-fns": "^2.16.0",
+    "@date-io/luxon": "^2.16.1",
+    "@date-io/moment": "^2.16.1",
+    "date-fns": "^2.30.0",
+    "luxon": "^3.3.0",
+    "moment": "^2.29.4"
+  }
+}
